@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="./assets/node_hud.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=300&color=00FF41&center=true&vCenter=true&width=780&lines=%3E_+EXECUTING+NODE+%3A%3A+HAMZA585368;%3E_+KERNEL+STACK+%3A%3A+PYTHON+ENCRYPTED+PIPELINE;%3E_+STATUS+%3A%3A+100%25+AUTONOMOUS+OPERATION" />
-  <img src="./assets/node_pulse.svg" width="100%" />
+  <img src="./assets/unique_hud.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&color=00F5D4&center=true&vCenter=true&width=760&lines=NODE%3A+HAMZA585368+%5BCYBERNETIC+RECON+CORE%5D;RUNTIME%3A+PYTHON+%7C+ZERO-LATENCY+VERIFIED" />
 </div>
 
-```diff
-+ [NODE TELEMETRY] :: HAMZA585368
-+ Architecture     :: System Profile
-+ Primary Kernel   :: PYTHON
-+ Root Operator    :: hamza-evolution
-! Security Status  :: HARDENED & VERIFIED
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/THEME-CYBERNETIC_RECON_CORE-00F5D4?style=for-the-badge&labelColor=020B0A" /> <img src="https://img.shields.io/badge/STACK-PYTHON-FEE440?style=for-the-badge&labelColor=020B0A" />
+</div>
+
+### `>_` ARCHITECTURE SPEC
+> System Profile
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03070B,50:00FF41,100:00E5FF&height=115&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=0:020B0A,50:00F5D4,100:FEE440&height=110&section=footer" width="100%" />
 </div>
