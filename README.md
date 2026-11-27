@@ -1,17 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Autonomous+AI+%26+Cloud+Systems+Architect;Android+Accessibility+%26+Automation+Engineer;B2B+Lead+Intelligence+%26+High-Speed+APIs" alt="Terminal Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=680&lines=HAMZA585368+%7C+PRODUCTION+ARCHITECTURE;Engineered+by+hamza-evolution+%7C+High-Speed+Automation" alt="hamza585368" />
 </div>
 
-### `>_` System Architecture & Focus
-- **Autonomous AI Orchestration:** Multi-agent LLM gateways, zero-token local bypass engines, and 24/7 cloud-hybrid bots.
-- **Mobile & Accessibility Engineering:** Native Android (Kotlin, Jetpack Compose, Semantic UI Tree Parsing) & headless QA testing.
-- **Data & Growth Infrastructure:** High-speed async scrapers, real-time FMCSA/B2B pipelines, and automated web deployment.
-
-### `>_` Core Arsenal
-![Python](https://shields.io) ![Kotlin](https://shields.io) ![FastAPI](https://shields.io) ![Android](https://shields.io) ![Linux](https://shields.io) ![Docker](https://shields.io)
-
-### `>_` Live Telemetry
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hamza585368&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza585368&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
+  <img src="https://img.shields.io/badge/Status-Production_Active-00FF9C?style=for-the-badge&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Stack-Python-38BDF8?style=for-the-badge&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Architect-hamza-evolution-7F52FF?style=for-the-badge&labelColor=0D1117" />
 </div>
+
+### `>_` System Overview
+System Profile
+
+### `>_` Repository Architecture
+```text
+hamza585368/
+├── core_engine.py
+└── README.md
+```
+
+### `>_` Quick Deployment
+```bash
+git clone https://github.com/hamza-evolution/hamza585368.git
+cd hamza585368
+```
+
+---
+*Maintained by **[hamza-evolution](https://github.com/hamza-evolution)** • Autonomous Systems & Cloud Engineering*
